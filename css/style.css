@@ -22,7 +22,7 @@ img{
 }
 
 .section{
-    padding: 20px 0;
+    padding: 100px 0;
 }
 
 .row{
@@ -42,7 +42,32 @@ img{
 .card{
     position: relative;
 }
+
+.fixed{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 9999;
+}
+
+.p-10{
+    padding: 10px 0;
+}
 /*HEADER*/
+
+.header{
+    color: #ffffff;
+    background-color: #ffa500;
+}
+
+.dim{
+    align-items: center;
+}
+
+.logo{
+    width: 7em;
+}
 
 /*MAIN*/
 .hearts{
