@@ -54,8 +54,8 @@ img{
 .p-10{
     padding: 10px 0;
 }
-/*HEADER*/
 
+/*HEADER*/
 .header{
     color: #ffffff;
     background-color: #ffa500;
@@ -137,3 +137,15 @@ img{
     margin-left: 2px;
 }
 /*FOOTER*/
+
+.footer{
+    color: #ffffff;
+    background-color: #000000;
+}
+
+a{
+    text-decoration: none;
+    color: #ffffff;
+    margin: 2px;
+    font-size: 0.5rem;
+}
